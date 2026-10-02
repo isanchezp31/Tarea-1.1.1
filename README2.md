@@ -1,7 +1,7 @@
 # Este es el segundo Repositorio de Markdown para la tarea
 **Imanol Sánchez Polo**
 
-[*Primer Repositorio*]() 
+[*Primer Repositorio*](README.md) 
 
 *02/10/2026*
 
