@@ -36,4 +36,4 @@ Visita de nuevo [Valorant][VCT]
 
 ![Valorant Champions](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKZx9OVtE7Tc-JCO3BcqX3OnEZeFdBgmyuxMeUbqriQ&s=10)
 
-![Valo]()
+![Valo](imagenes/images.jpg)
