@@ -35,3 +35,5 @@ Visita de nuevo [Valorant][VCT]
 [VCT]: https://valorantesports.com/es-ES/
 
 ![Valorant Champions](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKZx9OVtE7Tc-JCO3BcqX3OnEZeFdBgmyuxMeUbqriQ&s=10)
+
+![Valo]()
